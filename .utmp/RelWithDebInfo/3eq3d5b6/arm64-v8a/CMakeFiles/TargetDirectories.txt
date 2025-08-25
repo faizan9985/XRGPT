@@ -1,0 +1,5 @@
+G:/CluelyDemo1/XR_GPT2/.utmp/RelWithDebInfo/3eq3d5b6/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/CluelyDemo1/XR_GPT2/.utmp/RelWithDebInfo/3eq3d5b6/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/CluelyDemo1/XR_GPT2/.utmp/RelWithDebInfo/3eq3d5b6/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/CluelyDemo1/XR_GPT2/.utmp/RelWithDebInfo/3eq3d5b6/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/CluelyDemo1/XR_GPT2/.utmp/RelWithDebInfo/3eq3d5b6/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

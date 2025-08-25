@@ -1,0 +1,2 @@
+G:\CluelyDemo1\XR_GPT2\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+G:\CluelyDemo1\XR_GPT2\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
