@@ -194,6 +194,7 @@ void LitPassFragmentSimple(
     , out half4 outColor : SV_Target0
 #ifdef _WRITE_RENDERING_LAYERS
     , out float4 outRenderingLayers : SV_Target1
+    , float4 positionCS : SV_POSITION
 #endif
 )
 {
@@ -227,7 +228,7 @@ void LitPassFragmentSimple(
 
 #ifdef _WRITE_RENDERING_LAYERS
     uint renderingLayers = GetMeshRenderingLayer();
-    outRenderingLayers = float4(EncodeMeshRenderingLayer(renderingLayers), 0, 0, 0);
+    outRenderingLayers = float4(EncodeMeshRenderingLayer(renderingLayers, positionCS), 0, 0, 0);
 #endif
 }
 

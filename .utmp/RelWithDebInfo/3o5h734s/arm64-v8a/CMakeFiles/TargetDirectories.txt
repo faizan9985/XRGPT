@@ -1,0 +1,5 @@
+G:/XRGPT/XRGPT/.utmp/RelWithDebInfo/3o5h734s/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/XRGPT/XRGPT/.utmp/RelWithDebInfo/3o5h734s/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/XRGPT/XRGPT/.utmp/RelWithDebInfo/3o5h734s/arm64-v8a/GameActivity/CMakeFiles/game.dir
+G:/XRGPT/XRGPT/.utmp/RelWithDebInfo/3o5h734s/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+G:/XRGPT/XRGPT/.utmp/RelWithDebInfo/3o5h734s/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
